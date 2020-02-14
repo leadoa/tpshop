@@ -5,6 +5,7 @@
 		<view class="right-top-sign"></view>
 		<!-- #ifdef H5 -->
 		H5登录界面，不作，不用于H5
+		重新作H5登录界面，用于3种程序
 		<!-- #endif -->
 		<!-- #ifdef MP-WEIXIN -->
 			<!-- 微信小程序专用登录 -->
